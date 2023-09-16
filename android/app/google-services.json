@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "458936831536",
+    "project_id": "fixer-4f39a",
+    "storage_bucket": "fixer-4f39a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458936831536:android:c94fc9e11a686a1a18e7f5",
+        "android_client_info": {
+          "package_name": "com.fixer.fixer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458936831536-dkk9qirg5cnu9ua5pacp93sbgsiqn3q8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fixer.fixer",
+            "certificate_hash": "069bfda3081a3d123f428dae85a0d0efa0ccbb8b"
+          }
+        },
+        {
+          "client_id": "458936831536-5l2ssprpnvoprnl6s0ku09sfglkeb5l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSF9DRD4wIhmegkjfMpRRQPDa1YrtIR3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458936831536-5l2ssprpnvoprnl6s0ku09sfglkeb5l0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458936831536-3usf2mjkhdjqlhs8gjinn1sht48597su.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fixer.fixer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
